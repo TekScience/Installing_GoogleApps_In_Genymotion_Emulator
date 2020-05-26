@@ -1,1 +1,0 @@
-Refer README.md file.
